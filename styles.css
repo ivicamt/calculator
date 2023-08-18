@@ -1,0 +1,73 @@
+.number {
+    padding: 30px;
+    margin: 10px;
+    border-radius: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: darkgrey;
+    font-size: 25px;
+    border-color: rgba(211, 211, 211, 0);
+    cursor: pointer;
+}
+
+.operator {
+    padding: 30px;
+    margin: 10px;
+    border-radius: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: rgb(230, 133, 16);
+    color: white;
+    border-color: rgba(211, 211, 211, 0);
+    cursor: pointer;
+}
+.clear {
+    padding: 30px;
+    margin: 10px;
+    border-radius: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: rgb(230, 133, 16);
+    border-color: rgba(211, 211, 211, 0);
+    cursor: pointer;
+    color: white;
+}
+.calculate {
+    padding: 30px;
+    margin: 10px;
+    border-radius: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: rgb(230, 133, 16);
+    border-color: rgba(211, 211, 211, 0);
+    cursor: pointer;
+    color: white;
+}
+.display {
+    padding: 10px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 380px;
+    border-radius: 20px;
+    background-color: lightgrey;
+    font-size: 25px;
+    border-color: rgba(211, 211, 211, 0);
+}
+
+.calculator {
+    margin-left: 550px;
+    margin-top: 100px;
+    
+}
+
+.header {
+    display: flex;
+    margin-left: 630px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+.border {
+background-color: rgba(211, 211, 211, 0.293);
+border-radius: 10px;
+margin: 10px;
+}
